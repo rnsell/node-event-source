@@ -1,0 +1,11 @@
+{
+  "name": "node-event-source",
+  "version": "1.0.0",
+  "description": "Library for creating an event source stream.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./lib/**/*.js"
+  },
+  "author": "rnsell",
+  "license": "MIT"
+}
